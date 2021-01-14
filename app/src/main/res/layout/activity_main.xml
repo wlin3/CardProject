@@ -15,10 +15,10 @@
         android:id="@+id/birthday"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy New Years"
+        android:text="Happy New Years!"
         android:textSize="36sp"
-        android:fontFamily="sans-serif-condensed-light"
-        android:textColor="@android:color/white"
+        android:fontFamily="serif-monospace"
+        android:textColor="@android:color/holo_blue_dark"
         android:padding="20dp"
         android:layout_centerHorizontal="true"
         />
@@ -30,8 +30,8 @@
         android:layout_centerHorizontal="true"
         android:textSize="36sp"
         android:fontFamily="sans-serif-condensed-light"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/holo_blue_dark"
         android:paddingBottom="100dp"
-        android:text="From: The Lins" />
+        android:text="From: William Lin" />
 
 </RelativeLayout>
